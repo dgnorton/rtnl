@@ -1,0 +1,6 @@
+rroots
+rroots.works
+*.swp
+*.prof
+*.svg
+vcsignore/
